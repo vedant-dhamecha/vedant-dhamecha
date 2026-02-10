@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Dhamecha</h1>
-<p align="center">Software Engineer | MERN Stack Developer</p>
+<p align="center">Software Engineer</p>
 <p align="center">Building scalable web applications & solving real-world problems through code 🚀</p>
 
 <p align="center">
