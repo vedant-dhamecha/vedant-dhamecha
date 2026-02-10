@@ -195,11 +195,13 @@ I'm a **Software Engineer at Tata Consultancy Services** with a passion for buil
 
 ---
 
-## 💡 Random Dev Quote
+## 💡 Dev Quote
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
+</p> -->
+### A ship in port is safe, but that's not what ships are built for.   
+##                                                               ~Grace Hopper
 
 ---
 
