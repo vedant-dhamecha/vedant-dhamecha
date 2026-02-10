@@ -211,7 +211,6 @@ I'm a **Software Engineer at Tata Consultancy Services** with a passion for buil
 - 📧 Email: [vedantdhamecha9525@gmail.com](mailto:vedantdhamecha9525@gmail.com)
 - 🌐 Portfolio: [vedantdhamecha.vercel.app](https://vedantdhamecha.vercel.app)
 - 💻 LeetCode: [vedantdhamecha9525](https://leetcode.com/vedantdhamecha9525)
-- 📱 Phone: +91 7285066693
 
 ---
 
