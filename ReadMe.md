@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer at Tata Consultancy Services** with a passion for building scalable, user-centric web applications. I specialize in the **MERN Stack** and have hands-on experience in developing enterprise-grade SaaS platforms, enhancing user experiences, and optimizing application performance.
+I'm a **Software Engineer at Tata Consultancy Services** with a passion for building scalable, user-centric web applications. I specialize in the **React Redux** and have hands-on experience in developing enterprise-grade SaaS platforms, enhancing user experiences, and optimizing application performance.
 
 - 🎓 **B.Tech in Computer Engineering** from Birla Vishvakarma Mahavidyalaya (CGPA: 7.38 - Distinction)
 - 💼 Currently working on **LiveChat SaaS Platform** & **Crosstalk Collaboration Platform** at TCS
