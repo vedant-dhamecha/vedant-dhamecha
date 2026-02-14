@@ -3,16 +3,16 @@
 <p align="center">Building scalable web applications & solving real-world problems through code 🚀</p>
 
 <p align="center">
-  <a href="https://vedantdhamecha.vercel.app" target="_blank">
+  <a href="https://www.vedantdhamecha.in/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/vedant-dhamecha" target="_blank">
+  <a href="https://www.linkedin.com/in/vedantdhamecha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="https://github.com/vedant-dhamecha" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/vedantdhamecha9525" target="_blank">
+  <a href="https://leetcode.com/u/vedantdhamecha_/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000?logo=leetcode&logoColor=FFA116&style=for-the-badge" alt="LeetCode" />
   </a>
   <a href="mailto:vedantdhamecha9525@gmail.com">
@@ -26,8 +26,9 @@
 
 I'm a **Software Engineer at Tata Consultancy Services** with a passion for building scalable, user-centric web applications. I specialize in the **React Redux** and have hands-on experience in developing enterprise-grade SaaS platforms, enhancing user experiences, and optimizing application performance.
 
-- 🎓 **B.Tech in Computer Engineering** from Birla Vishvakarma Mahavidyalaya (CGPA: 7.38 - Distinction)
+- 🎓 **B.Tech in Computer Engineering** from Birla Vishvakarma Mahavidyalaya (First Class with Distinction)
 - 💼 Currently working on **LiveChat SaaS Platform** & **Crosstalk Collaboration Platform** at TCS
+- ⭐ Cleared wings-1 T1 MERN Tech Track in first attempt
 - 🏆 Awarded **Star of the Month** & **Best Team Award** at TCS
 - 🔥 **100-Day LeetCode Streak** holder
 - 🌱 Always learning and exploring new technologies
@@ -173,12 +174,16 @@ I'm a **Software Engineer at Tata Consultancy Services** with a passion for buil
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vedant-dhamecha&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
+</p> -->
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-dhamecha&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+</p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-dhamecha&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vedant-dhamecha&show_icons=true&theme=transparent" alt="GitHub Stats" />
 </p>
 
 <p align="center">
