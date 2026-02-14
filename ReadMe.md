@@ -182,8 +182,6 @@ I'm a **Software Engineer at Tata Consultancy Services** with a passion for buil
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-dhamecha&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </p> -->
 
-![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedant-dhamecha&show_icons=true&theme=transparent)
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-dhamecha&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
